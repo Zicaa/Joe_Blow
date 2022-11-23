@@ -1,3 +1,4 @@
-# Produce maintainable CSS stylesheets with SASS
+# Fournir un code CSS propre et modulable avec SASS
 
-CSS is the palette we use to paint the web, making pages beautiful, identifiable, and responsive. In this class we’ll learn to write clean, maintainable, and modular CSS code through the implementation of designed naming and file structures, such as BEM, and the use of SASS, a CSS precompiler.# P3Bis_Simplifiez_vous_le_CSS_avec_Sass_site_Joe_Blow_Cresta_Nausicaa
+Exercice pour écrire un code CSS propre, maintenable et modulaire grâce à la mise en œuvre de structures de noms et de fichiers conçues, telles que BEM, et à l'utilisation de SASS, un précompilateur CSS.
+#Simplifiez_vous_le_CSS_avec_Sass_site_Joe_Blow_Cresta_Nausicaa
